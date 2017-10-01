@@ -6,17 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{
-	"express":"*",
+  "dependencies": {
+    "express": "*",
     "mongodb": "*",
-	"mongoose":"*",
-	"bcryptjs":"*",
-	"cors":"*",
-	"jsonwebtoken":"*",
-	"body-parser":"*",
-	"passport":"*",
-	"passport-jwt":"*"
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
   },
   "author": "Michael Lewis",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
